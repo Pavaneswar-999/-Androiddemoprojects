@@ -20,4 +20,4 @@ A high-end, distraction-free Android calculator built with a focus on premium UI
 The app features a sophisticated monochrome interface where the result appears with a smooth "pop" animation only when calculations are performed.
 
 ---
-Built with ❤️ by [Pavaneswar-999](https://github.com/Pavaneswar-999)
+Developed and maintained by [Pavaneswar-999](https://github.com/Pavaneswar-999)
