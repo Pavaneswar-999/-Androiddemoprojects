@@ -1,12 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="brand_indigo_900">#0B0A1F</color>
-    <color name="brand_indigo_700">#C7D2FE</color>
-    <color name="brand_indigo_600">#818CF8</color>
-    <color name="brand_indigo_100">#2A2760</color>
-    <color name="surface_bg">#121026</color>
-    <color name="text_primary">#F4F3FF</color>
-    <color name="text_muted">#9A9CC7</color>
-    <color name="stroke_soft">#322F63</color>
-    <color name="result_bg">#1D1B45</color>
+    <!-- Backgrounds -->
+    <color name="surface_bg">#000000</color> <!-- Deep Black -->
+    <color name="card_surface">#1A1A1A</color> <!-- Near Black -->
+    <color name="result_bg">#FFFFFF</color> <!-- Pure White (Inverse) -->
+
+    <!-- Primary Accents -->
+    <color name="brand_black">#FFFFFF</color>
+    <color name="brand_dark_grey">#E5E5E5</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#CCCCCC</color>
+    <color name="text_muted">#999999</color>
+    <color name="text_on_black">#000000</color> <!-- Black on White result card -->
+
+    <!-- Strokes and Dividers -->
+    <color name="stroke_hard">#FFFFFF</color>
+    <color name="stroke_soft">#333333</color>
+
+    <!-- Utility -->
+    <color name="white">#FFFFFF</color>
+    <color name="error_red">#FF4D4D</color>
 </resources>
