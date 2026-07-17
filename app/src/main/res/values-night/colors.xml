@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand_indigo_900">#0B0A1F</color>
+    <color name="brand_indigo_700">#C7D2FE</color>
+    <color name="brand_indigo_600">#818CF8</color>
+    <color name="brand_indigo_100">#2A2760</color>
+    <color name="surface_bg">#121026</color>
+    <color name="text_primary">#F4F3FF</color>
+    <color name="text_muted">#9A9CC7</color>
+    <color name="stroke_soft">#322F63</color>
+    <color name="result_bg">#1D1B45</color>
+</resources>

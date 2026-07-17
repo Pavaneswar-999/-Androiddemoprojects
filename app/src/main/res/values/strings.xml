@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Android Demo Projects</string>
+    <string name="app_title_label">Calc Pro</string>
+    <string name="number_1_label">First value</string>
+    <string name="number_2_label">Second value</string>
+
+    <string name="add_label">＋</string>
+    <string name="sub_label">－</string>
+    <string name="mult_label">×</string>
+    <string name="div_label">÷</string>
+
+    <string name="add_content_description">Add</string>
+    <string name="sub_content_description">Subtract</string>
+    <string name="mult_content_description">Multiply</string>
+    <string name="div_content_description">Divide</string>
+
+    <string name="result_eyebrow_label">Result</string>
+    <string name="result_placeholder">Enter values to calculate</string>
+    <string name="result_format">%1$s %2$s %3$s = %4$s</string>
+
+    <string name="error_invalid_number">Enter a valid number</string>
+    <string name="error_div_zero">Can\'t divide by zero</string>
+</resources>

@@ -1,0 +1,24 @@
+<resources>
+    <!-- Backgrounds -->
+    <color name="surface_bg">#FFFFFF</color> <!-- Pure White -->
+    <color name="card_surface">#F8F9FA</color> <!-- Ultra Light Grey -->
+    <color name="result_bg">#000000</color> <!-- Pitch Black -->
+
+    <!-- Primary Accents -->
+    <color name="brand_black">#000000</color>
+    <color name="brand_dark_grey">#1A1A1A</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#000000</color>
+    <color name="text_secondary">#4D4D4D</color>
+    <color name="text_muted">#808080</color>
+    <color name="text_on_black">#FFFFFF</color>
+
+    <!-- Strokes and Dividers -->
+    <color name="stroke_hard">#000000</color>
+    <color name="stroke_soft">#E5E5E5</color>
+
+    <!-- Utility -->
+    <color name="white">#FFFFFF</color>
+    <color name="error_red">#D00000</color>
+</resources>
